@@ -1,14 +1,14 @@
 [
     {
-        "name": "OpenNeuro",
-        "apiURL": "https://api.neurobagel.org/" 
+        "NodeName": "OpenNeuro",
+        "ApiURL": "https://api.neurobagel.org/" 
     },
     {
-        "name": "Parkinson's Progression Markers Initiative",
-        "apiURL": "http://206.12.89.194:8888/" 
+        "NodeName": "Parkinson's Progression Markers Initiative",
+        "ApiURL": "http://206.12.89.194:8888/" 
     },
     {
-        "name": "Quebec Parkinson Network",
-        "apiURL": "http://206.12.89.194:8080/" 
+        "NodeName": "Quebec Parkinson Network",
+        "ApiURL": "http://206.12.89.194:8080/" 
     }  
 ]
