@@ -4,10 +4,6 @@
         "ApiURL": "https://api.neurobagel.org/" 
     },
     {
-        "NodeName": "Parkinson's Progression Markers Initiative",
-        "ApiURL": "http://206.12.89.194:8888/" 
-    },
-    {
         "NodeName": "Quebec Parkinson Network",
         "ApiURL": "http://206.12.89.194:8080/" 
     }  
