@@ -6,5 +6,9 @@
     {
         "NodeName": "Quebec Parkinson Network",
         "ApiURL": "http://206.12.89.194:8080/" 
-    }  
+    },
+    {
+        "NodeName": "INDI",
+        "ApiURL": "http://206.12.99.17:8001/" 
+    }
 ]
