@@ -8,7 +8,7 @@
         "ApiURL": "http://206.12.89.194:8080/" 
     },
     {
-        "NodeName": "INDI",
+        "NodeName": "International Neuroimaging Data-sharing Initiative",
         "ApiURL": "https://indi.neurobagel.org/" 
     }
 ]
