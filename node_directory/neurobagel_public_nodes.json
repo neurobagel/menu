@@ -9,6 +9,6 @@
     },
     {
         "NodeName": "International Neuroimaging Data-sharing Initiative",
-        "ApiURL": "206.12.101.97:8001" 
+        "ApiURL": "http://206.12.101.97:8001" 
     }
 ]
