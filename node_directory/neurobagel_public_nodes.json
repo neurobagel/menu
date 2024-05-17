@@ -1,7 +1,7 @@
 [
     {
         "NodeName": "OpenNeuro",
-        "ApiURL": "http://206.12.101.97:8000" 
+        "ApiURL": "https://api.neurobagel.org" 
     },
     {
         "NodeName": "Quebec Parkinson Network",
@@ -9,6 +9,6 @@
     },
     {
         "NodeName": "International Neuroimaging Data-sharing Initiative",
-        "ApiURL": "http://206.12.101.97:8001" 
+        "ApiURL": "https://indi.neurobagel.org" 
     }
 ]
