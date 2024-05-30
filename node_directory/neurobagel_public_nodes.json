@@ -5,7 +5,7 @@
     },
     {
         "NodeName": "Quebec Parkinson Network",
-        "ApiURL": "http://206.12.89.194:8080/" 
+        "ApiURL": "https://qpn.neurobagel.org/" 
     },
     {
         "NodeName": "International Neuroimaging Data-sharing Initiative",
