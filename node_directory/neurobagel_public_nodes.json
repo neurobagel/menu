@@ -10,5 +10,9 @@
     {
         "NodeName": "International Neuroimaging Data-sharing Initiative",
         "ApiURL": "https://indi.neurobagel.org" 
+    },
+    {
+        "NodeName": "Austrian Neurocloud",
+        "ApiURL": "https://neurobagel.anc.plus.ac.at/napi"
     }
 ]
