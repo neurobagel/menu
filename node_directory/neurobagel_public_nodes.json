@@ -1,15 +1,15 @@
 [
     {
         "NodeName": "OpenNeuro",
-        "ApiURL": "https://api.neurobagel.org" 
+        "ApiURL": "https://openneuro.neurobagel.org/node" 
     },
     {
         "NodeName": "Quebec Parkinson Network",
-        "ApiURL": "https://qpn.neurobagel.org/" 
+        "ApiURL": "https://qpn.neurobagel.org/node" 
     },
     {
         "NodeName": "International Neuroimaging Data-sharing Initiative",
-        "ApiURL": "https://indi.neurobagel.org" 
+        "ApiURL": "https://indi.neurobagel.org/node" 
     },
     {
         "NodeName": "Austrian Neurocloud",
