@@ -14,5 +14,9 @@
     {
         "NodeName": "Austrian Neurocloud",
         "ApiURL": "https://neurobagel.anc.plus.ac.at/napi"
+    },
+    {
+        "NodeName": "EBrains",
+        "ApiURL": "https://ebrains.neurobagel.org/node"
     }
 ]
