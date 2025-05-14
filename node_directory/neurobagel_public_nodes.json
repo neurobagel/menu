@@ -16,7 +16,7 @@
         "ApiURL": "https://neurobagel.anc.plus.ac.at/napi"
     },
     {
-        "NodeName": "EBrains",
+        "NodeName": "EBRAINS",
         "ApiURL": "https://ebrains.neurobagel.org/node"
     }
 ]
