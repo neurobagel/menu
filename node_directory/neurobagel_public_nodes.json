@@ -18,5 +18,9 @@
     {
         "NodeName": "EBRAINS",
         "ApiURL": "https://ebrains.neurobagel.org/node"
+    },
+    {
+        "NodeName": "Ontario Brain Institute",
+        "ApiURL": "https://nb-api.obicloud.ca/"
     }
 ]
