@@ -22,5 +22,9 @@
     {
         "NodeName": "Ontario Brain Institute",
         "ApiURL": "https://nb-api.obicloud.ca/"
+    },
+    {
+        "NodeName": "Shanoir",
+        "ApiURL": "https://neurobagel.irisa.fr/node"
     }
 ]
