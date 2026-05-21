@@ -4,8 +4,8 @@
         "ApiURL": "https://openneuro.neurobagel.org/node" 
     },
     {
-        "NodeName": "Quebec Parkinson Network",
-        "ApiURL": "https://qpn.neurobagel.org/node" 
+        "NodeName": "TOSI Neuro",
+        "ApiURL": "https://tosi.neurobagel.org/mni_public" 
     },
     {
         "NodeName": "International Neuroimaging Data-sharing Initiative",
