@@ -26,5 +26,9 @@
     {
         "NodeName": "Shanoir",
         "ApiURL": "https://neurobagel.irisa.fr/node"
-    }
+    },
+    {
+    "NodeName": "PublicnEUro",
+    "ApiURL": " https://datacatalog.publicneuro.eu/neurobagel/node/"
+     }
 ]
